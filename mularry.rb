@@ -1,7 +1,7 @@
 
 # 	%w == awesome shortcut, before an array.. uses spaces  
 #      eliminating need of commas & quotes
-names = %w[BillyJak Matt Pat Josh Joe Gark Luuk marv scott]
+names = %w[BillyJak Matt Pat Josh Joe Gark Luuk scott]
 	
   def randomizer(names)
 		 	names_shuffled = names.shuffle
